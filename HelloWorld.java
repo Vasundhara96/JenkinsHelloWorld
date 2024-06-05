@@ -2,6 +2,6 @@ public class HelloWorld
 {
     public static void main(String []args)
     {
-        System.out.println("*****Updating the GIT*******");
+        System.out.println("*****Via webhook*******");
     }
 };
